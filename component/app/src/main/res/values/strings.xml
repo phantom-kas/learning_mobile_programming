@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">component</string>
+    <string name="android_development_textview_marquee_effect">Android development TextView marquee effect</string>
+    <string name="please_input_your_name">Please input your name</string>
+    <string name="add_onclick_attribute_response_to_button_click">Add onClick attribute response to button click</string>
+    <string name="add_onclicklistener_in_response_to_button_click">Add onclicklistener in response to button click</string>
+</resources>

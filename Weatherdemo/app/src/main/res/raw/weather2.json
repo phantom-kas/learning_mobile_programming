@@ -1,0 +1,5 @@
+[
+  {"temp":"20℃/30℃","weather":"Sunny and Cloudy","name":"Shanghai","pm":"80","wind":"level 1"},
+  {"temp":"15℃/24℃","weather":"Sunny","name":"Beijing","pm":"98","wind":"level 3"},
+  {"temp":"26℃/32℃","weather":"Cloudy","name":"Dalian","pm":"30","wind":"level 5"}
+]

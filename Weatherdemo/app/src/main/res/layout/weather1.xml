@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infos>
+    <city id="sh">
+        <temp>20℃/30℃</temp>
+        <weather>Sunny and Cloudy</weather>
+        <name>Shanghai</name>
+        <pm>80</pm>
+        <wind>leve 1</wind>
+    </city>
+    <city id="bj">
+        <temp>26℃/32℃</temp>
+        <weather>Sunny</weather>
+        <name>Beijing</name>
+        <pm>98</pm>
+        <wind>level 3</wind>
+    </city>
+    <city id="dl">
+        <temp>15℃/24℃</temp>
+        <weather>Cloudy</weather>
+        <name>Dalian</name>
+        <pm>30</pm>
+        <wind>level 5</wind>
+    </city>
+</infos>
